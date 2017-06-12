@@ -1,0 +1,30 @@
+Model Name: Places205-GoogLeNet
+
+Description: Detects the scene of an image from 205 categories such as airport, bedroom, forest, coast, and more. 
+
+Core ML Model Size: 24.8 MB
+<https://developer.apple.com/machine-learning/>
+
+-----
+
+Source Link
+<https://github.com/BVLC/caffe/wiki/Model-Zoo>
+
+Download Link
+<http://places.csail.mit.edu/model/googlenet_places205.tar.gz>
+
+Project Page
+<http://places.csail.mit.edu> <http://places.csail.mit.edu/>
+
+Authors
+B. Zhou, A. Lapedriza, J. Xiao, A. Torralba, and A. Oliva
+
+Citation
+B. Zhou, A. Lapedriza, J. Xiao, A. Torralba, and A. Oliva. "Learning Deep Features for Scene Recognition using Places Database." Advances in Neural Information Processing Systems 27 (NIPS), 2014. PDF <http://places.csail.mit.edu/places_NIPS14.pdf> 
+Supplementary Materials <http://places.csail.mit.edu/supp.pdf>
+
+Labels
+<http://places.csail.mit.edu/IndoorOutdoor_places205.csv>
+
+License
+Scene attribute prediction used in the demo are trained from the data of SUN attribute database. This work is partly supported by the National Science Foundation under Grant No. 1016862, and by the McGovern Institute Neurotechnology Program (MINT) to A.O, ONR MURI N000141010933 to A.T, as well as MIT Big Data Initiative at CSAIL, Google, Xerox and Amazon Awards, and a hardware donation from NVIDIA Corporation, to A.O and A.T., and Intel and Google awards to J.X. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation and other funding agencies. The annotation can be used under the Creative Common License (Attribution CC BY). The copyright of all the images belongs to the image owners.
